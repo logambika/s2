@@ -8,7 +8,7 @@ class Ideone
 	public static void main (String[] args) throws java.lang.Exception
 	{
 		
-		char a='c';
+		char a='a';
 if(a=='a'||a=='e'||a=='i'||a=='o'||a=='u')
 System.out.print("vowelse");
 else
